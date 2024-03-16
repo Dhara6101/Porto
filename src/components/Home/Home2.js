@@ -40,11 +40,11 @@ As a DevOps engineer, my focus lies in integrating cutting-edge web technologies
               <br />
               <br />
             I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple"> Cloud</b> and
               <i>
                 <b className="purple">
                   {" "}
-                Cloud
+              .
                 </b>
               </i>
               &nbsp; AWS
