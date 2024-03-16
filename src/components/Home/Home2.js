@@ -98,7 +98,7 @@ As a DevOps engineer, my focus lies in integrating cutting-edge web technologies
               </li>
               <li className="social-icons">
                 <a
-                  // href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/dhara_s_i_n_g_h/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
