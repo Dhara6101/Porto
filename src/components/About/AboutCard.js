@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">DHARA SINGH</span>
             from <span className="purple"> Jammu and kashmir, India.</span>
             <br />
-            I am currently looking for job as fresher.
+            I am currently looking for job as devops engineer
             <br />
             I have completed B.E in Govt college of engineering chandrapur
             <br />
