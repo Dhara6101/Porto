@@ -31,25 +31,25 @@ function Home2() {
               My field of Interest's &nbsp;
               <i>
                 <b className="purple">
-As a DevOps engineer, my focus lies in integrating cutting-edge web technologies and products while also exploring blockchain-related advancements. </b> and
+As a DevOps engineer, my focus lies in integrating cutting-edge web technologies and products while also exploring blockchain-related advancements </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  _
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+            I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                Cloud
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; AWS
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Devops tools</b>
               </i>
             </p>
           </Col>
