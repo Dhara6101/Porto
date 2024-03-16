@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> AWS Devops tools </b>
+                <b className="purple"> AWS , Devops tools </b>
               </i>
               <br />
               <br />
