@@ -28,9 +28,10 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">
+As a DevOps engineer, my focus lies in integrating cutting-edge web technologies and products while also exploring blockchain-related advancements. </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Blockchain.
