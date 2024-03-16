@@ -25,19 +25,19 @@ function Home() {
                 <strong className="main-name"> DHARA SINGH</strong>
               </h1>
 
-              <div style={{ padding: 50, textAlign: "left" }}>
+              {/* <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
-              </div>
+              </div> */}
             </Col>
 
-            {/* <Col md={5} style={{ paddingBottom: 20 }}>
+            <Col md={5} style={{ paddingBottom: 20 }}>
               <img
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
               />
-            </Col> */}
+            </Col>
           </Row>
         </Container>
       </Container>
